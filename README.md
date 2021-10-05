@@ -1,4 +1,5 @@
 # Calculadora Completa
 <h4>Calculadora feita com HTML, CSS e JavaScript
 </h4>
-![image](https://user-images.githubusercontent.com/55290557/136103237-009defa6-e6b6-43b2-b7d6-5d05b33e1950.png)
+![Captura de tela 2021-10-05 181411](https://user-images.githubusercontent.com/55290557/136103648-d87c55c6-2d2e-4101-af66-2aa4a8b1a53f.png)
+
